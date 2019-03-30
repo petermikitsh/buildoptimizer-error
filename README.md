@@ -6,3 +6,5 @@ npm start
 ```
 
 Then go to http://0.0.0.0:8080/
+
+<img src="./error.png">
