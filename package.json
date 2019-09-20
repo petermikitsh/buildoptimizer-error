@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/petermikitsh/buildoptimizer-error#readme",
   "devDependencies": {
-    "@angular-devkit/build-optimizer": "^0.13.7",
+    "@angular-devkit/build-optimizer": "^0.13.9",
     "css-loader": "^2.1.1",
     "html-webpack-plugin": "^3.2.0",
     "style-loader": "^0.23.1",
